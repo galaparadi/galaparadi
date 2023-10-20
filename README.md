@@ -9,3 +9,5 @@ Just a person who can code
 Web technology enthusiast
 :globe_with_meridians:
 </p>
+
+<a href="https://galaparadi.github.io/">Visit My Github Page</a>
