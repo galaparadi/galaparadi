@@ -10,4 +10,4 @@ Web technology enthusiast
 :globe_with_meridians:
 </p>
 
-<a href="https://galaparadi.github.io/">Visit My Github Page</a>
+<p align="center"><a href="https://galaparadi.github.io/">Visit My Github Page</a></p>
